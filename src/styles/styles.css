@@ -32,20 +32,19 @@ body {
 
 
 
-#instagram-button{
+#instagram-button {
+background-color: transparent;
+color: white;
+border: 2px solid white;
+padding: 9px 18px;
+font-size: 13px;
+text-decoration: none;
+display: inline-block;
+border-radius: 7px; 
+}
 
-  outline: none;
-
-  padding: 0.5rem;
-
-  border: none;
-
-  font-size: 14px;
-
-  background: transparent;
-
-  color:#fff;
-
+#instagram-button:hover {
+background-color: #000900;
 }
 
 
